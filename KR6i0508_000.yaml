@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0508/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說信解智力經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0802.xml
+    old_id: T17n0802
+hash: sha256:327b38d55bb7c184b90d02cbcd400decfeab75ba9a31fa025bc91c1ad015c7fc
