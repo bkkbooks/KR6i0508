@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0508_000.yaml, hash: 'sha256:327b38d55bb7c184b90d02cbcd400decfeab75ba9a31fa025bc91c1ad015c7fc'}
-  - {seq: 1, filename: KR6i0508_001.yaml, hash: 'sha256:e3c7641466d0d5691cb92f590feb34885deb3a318baeb4b52fffcd978d0fb92c'}
+  - {seq: 1, filename: KR6i0508_001.yaml, hash: 'sha256:67d748e312eb36051e88cd60fa4b72a1e41c61711c15d28913851fd8ea490ca9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0508_001.markers.yaml, hash: 'sha256:b127b6607b10c827330061b560984a3bdf4d9dcdf3ecb366a04fe4440b98d9e0'}
+  - {seq: 0, role: markers, filename: assets/KR6i0508_000.markers.yaml, hash: 'sha256:a82d80dc2f596ca2b38aaaa69a03a96e31eacbbf9156ad5f6fd60dfbb8c066eb'}
+  - {seq: 1, role: markers, filename: assets/KR6i0508_001.markers.yaml, hash: 'sha256:7dd4908d452655c4524a52f389e2ff1abcc9e25c5215d5e8a49fca8aab29d6e6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說信解智力經
   type: juan
   level: 1
-hash: sha256:eb3a1f78efa16b585f8652dd44640723c9bdfca3ed9493c4edbf726d357b1d04
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4428f6f924776a4bc2001afd52722088789a6d0b97a8af05b4d3f84711dcf0b2
